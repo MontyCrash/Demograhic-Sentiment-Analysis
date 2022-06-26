@@ -9,7 +9,7 @@ ___
 1.Данные для обучения
 
 Данные очищаются от знаков пунктуации и заглавных букв, после чего, разбиваются случайным образом на три файла (train, val, test)
-Вся подготовка ведется в файле [Preprocessing.py](NLP/Sentiment_analysis/Preprocessing.py)
+Вся подготовка ведется в файле [Preprocessing(2).ipynb](NLP/Sentiment_analysis/Preprocessing(2).ipynb)
 
 2. Model
 3. Helpers
