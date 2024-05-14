@@ -10,8 +10,6 @@ ___
 
 Данные очищаются от знаков пунктуации и заглавных букв, после чего, разбиваются случайным образом на три файла (train, val, test).
 
-Вся подготовка ведется в файле [Preprocessing(2).ipynb](Demograhic-Sentiment-Analysis/edit/main/Preprocessing(2).ipynb)
-
 2. Model
 3. Helpers
 
